@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+input{
+	margin-top:10px;
+	display:flex;
+	justify_cintent:center;
+	width:200px;
+	}
+label{
+	font-size:26px;
+}
